@@ -1,0 +1,7 @@
+F:\OMS2\OMSApi\OMSDB\bin\Debug\OMSDB.dll.config
+F:\OMS2\OMSApi\OMSDB\bin\Debug\OMSDB.dll
+F:\OMS2\OMSApi\OMSDB\bin\Debug\OMSDB.pdb
+F:\OMS2\OMSApi\OMSDB\obj\Debug\OMSDB.csprojAssemblyReference.cache
+F:\OMS2\OMSApi\OMSDB\obj\Debug\OMSDB.csproj.CopyComplete
+F:\OMS2\OMSApi\OMSDB\obj\Debug\OMSDB.dll
+F:\OMS2\OMSApi\OMSDB\obj\Debug\OMSDB.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMSApi", "OMSApi\OMSApi.csproj", "{DE3AEDDE-8C39-4348-A9A7-EE0351715EFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMSDB", "OMSDB\OMSDB.csproj", "{11CEFB1C-EC95-40C8-BD3E-28DA146C1466}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE3AEDDE-8C39-4348-A9A7-EE0351715EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3AEDDE-8C39-4348-A9A7-EE0351715EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3AEDDE-8C39-4348-A9A7-EE0351715EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3AEDDE-8C39-4348-A9A7-EE0351715EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11CEFB1C-EC95-40C8-BD3E-28DA146C1466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11CEFB1C-EC95-40C8-BD3E-28DA146C1466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11CEFB1C-EC95-40C8-BD3E-28DA146C1466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11CEFB1C-EC95-40C8-BD3E-28DA146C1466}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0328E00D-DEA6-466E-9B16-30429282A69A}
+	EndGlobalSection
+EndGlobal
